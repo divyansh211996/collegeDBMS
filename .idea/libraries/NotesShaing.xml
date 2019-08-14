@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NotesShaing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NotesShaing/dist/NotesShaing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
